@@ -1,8 +1,8 @@
 # DRAUM_DARKNEST
-[СКАЧАТЬ](https://github.com/DangettoSir/DRAUM_DARKNEST/releases/tag/DEMO)
+
 ![Логотип](images/logo.jpg)
 
-
+[СКАЧАТЬ](https://github.com/DangettoSir/DRAUM_DARKNEST/releases/tag/DEMO)[СКАЧАТЬ](https://github.com/DangettoSir/DRAUM_DARKNEST/releases/tag/DEMO)[СКАЧАТЬ](https://github.com/DangettoSir/DRAUM_DARKNEST/releases/tag/DEMO)
 Это атмосферная игра с графикой в стиле ретро, вдохновлённая славянской эстетикой и мрачной древней мифологией. Игрок погружается в мир, где древние легенды переплетаются с таинственной магией.
 
 Исследуй загадочные локации, борись со страшными монстрами, узнавай легенды от местных обитателей и жителей.
